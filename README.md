@@ -14,9 +14,6 @@ Local decoration businesses often struggle with walk-in crowds, long waiting tim
 
 This results in a smoother experience for customers and more efficient operations for the business.
 
-### Live URL
-Frontend Live URL: https://style-decor-auth.web.app/
-Bckend URL: https://style-decor-server-bice.vercel.app/
 
 
 ### Key Features
